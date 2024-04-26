@@ -1,5 +1,5 @@
 # Welcome to my github
-Hello! I’m Urunna Erondu, a learner on a journey through the fascinating world of DevOps. I'm currently exploring the depths of automation, continuous integration/deployment (CI/CD), cloud infrastructure, and everything in between. My goal is to become a proficient DevOps engineer who contributes to making software development processes more efficient and reliable.
+Hello! I’m Urunna Glad Erondu, a learner on a journey through the fascinating world of DevOps. I'm currently exploring the depths of automation, continuous integration/deployment (CI/CD), cloud infrastructure, and everything in between. My goal is to become a proficient DevOps engineer who contributes to making software development processes more efficient and reliable.
 
  
 Let's Connect
