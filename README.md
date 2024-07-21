@@ -6,6 +6,6 @@ Let's Connect
 
 I'm always open to connecting with fellow learners and professionals. If you have advice, resources, or just want to chat about tech, feel free to reach out!
 LinkedIn: https://www.linkedin.com/in/erondu-urunna-glad 
-Twitter: theglad_ue
+Twitter: @theglad_ue
 Email: ugerondu@gmail.com
 Thank you for stopping by my GitHub page. Let's embark on this DevOps journey together!
