@@ -8,4 +8,4 @@ I'm always open to connecting with fellow learners and professionals. If you hav
 LinkedIn: https://www.linkedin.com/in/erondu-urunna-glad 
 Twitter: @theglad_ue
 Email: ugerondu@gmail.com
-Thank you for stopping by my GitHub page. Let's embark on this DevOps journey together!
+Thank you for stopping by. Let's embark on this DevOps journey together!
